@@ -1,0 +1,23 @@
+# Avoid accidental Sketch file upload 
+###############################################
+## Please do not remove line 5 - thanks! 🙂 ##
+###############################################
+*.sketch
+
+# Avoid accidental XD or Figma upload if you convert the design file
+#######################################################
+## Please do not remove lines 11 and 12 - thanks! 🙂 ##
+#######################################################
+*.xd
+*.fig
+
+# Avoid your project being littered with annoying .DS_Store files!
+.DS_Store
+.gitattributes
+chat-app-css-illustration-master/style-guide.md
+chat-app-css-illustration-master/README.md
+chat-app-css-illustration-master/README-template.md
+chat-app-css-illustration-master/design/mobile-design.jpg
+chat-app-css-illustration-master/design/desktop-preview.jpg
+chat-app-css-illustration-master/design/desktop-design.jpg
+chat-app-css-illustration-master/.gitattributes
